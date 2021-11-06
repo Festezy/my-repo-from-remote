@@ -25,6 +25,8 @@ body{
     height: 50px;
     line-height: 50px;
     background-color: burlywood;
+    text-align: center;
+    color: white;
 }
 #header{
     width: 100%;
